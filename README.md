@@ -31,17 +31,16 @@ Lists they will be given.
 
 They are all welcome in this repository.
 
+# Solid User 
+
 ## Solid Identity Users 
 * As a Solid user I want to be able to identify myself online so that others can trust me in online interactions 
-* As a Solid User I want to use an identity verified by my government so that I can we can trust each other's identity in my country
+* As a Solid user I want to use an identity verified by my government so that I can we can trust each other's identity in my country
 * As a Solid user I want to be able to identify myself without association to the identifier so that I am not overdependent on an entity that I cannot control  
 
 ## Solid Pod Users 
-
 * As a Solid user I want to choose where to store my data so that I can judge if I trust the storage provider to respect my interests 
 * As a Solid user I want to be able to revoke access that an app has to my data so that I can change my mind or revise my decision when I have access to new information 
-
-
 * As a Solid user I want to choose which app to use with my data so that I can use services online freely
 * As a Solid user I want to know which apps are available for me to use so that I can have access to online services 
 * As a Solid user I want to know when an app is using my data so that I am consciously sharing information
@@ -100,31 +99,34 @@ As a Solid user on my mobile phone , I would like to overlay points of personal 
 * As a Solid user I want to be able to restore previous data so that ...
 * As a Solid user I want to be able to easily review and manage who has access to my data so that ... 
 * As a Solid user I want to use my WebID to register/authenticate everywhere on the Web, in and out of my pod 
+* As a Solid user who is a website operator I want to manage read access to groups so that ...
 
 ## Solid App Users 
 * As a Solid user I want to chat with other Solid users so that I can communicate when not being physically in the same place
+* As a Solid user who is a donor organisation (e.g. the Irish Government) I want to see a high-level aggregated report, broken down by NGO, of all the service disbursements made by those NGO's from funds I provided them so that I can report to my shareholders (e.g. the public!)
+* As a Solid user who is a project manager I want to restrict participation to video meetings that use existing video conference solutions so that ... 
 
-## Solid Provider
-* As a Solid Provider who is an operator of wifi for restaurants, hotels, etc I would like to allow clients to use their WebID to log in so that we don't need to manage passwords or have a captive portal. 
-* As a Solid Service Provider who is a donor organisation (e.g. the Irish Government) I want to see a high-level aggregated report, broken down by NGO, of all the service disbursements made by those NGO's from funds I provided them so that I can report to my shareholders (e.g. the public!)
-* As a Solid user I want to store and retrieve RDF resources preserving serialization-specific details (e.g. Turtle comments or prefixes)
-* As an IoT developer, I want to have a lightweight authentication mechanism so that my very small microcontrollers can authenticate themselves
-* As a Solid provider I want to easily find and use data shapes so that ...
-* As a operator of Internet services for a large non-profit, I want to maintain a stable Solid server for our community so that we can interact with them safely.
-* As a developer I want to set up WebRTC using a Pod
-* As a Web Site Operator, I want to use Web Access Control to manage read access to user groups so that we can take advantage of Solid for legacy content.
-* As a project manager, I want to use Web Access Control to restrict participation to video meetings that uses existing video conference solutions so that we can use existing solutions. 
+# Solid Provider
 
 ## Identity Provider
-
+As an Identity provider I want to...so that... 
 
 ## Pod Provider 
-* As a Pod Provider I want to run different components on different hosts so that I have a simple division of labor
-* As a Pod provider I want to easily deploy Solid on Docker so that ...
-* As a Pod provider I'd like to see aggregated histories of access attempts to pods I host so that I can manage hotspots, charge per usage, prevent DoS attacks, etc so that ...
-* As a Pod Provider who is a query engine writer I want Pods to expose cardinality estimates so that I can write a query planner that can optimize query answering over Solid data.
+* As a Pod provider I want to run different components on different hosts so that I have a simple division of labor
+* As a Pod provider I want to easily deploy on Docker so that ...
+* As a Pod provider I want to see aggregated histories of access attempts to Pods I host so that I can manage hotspots, charge per usage, prevent DoS attacks, etc so that ...
+* As a Pod provider who is a query engine writer I want Pods to expose cardinality estimates so that I can write a query planner that can optimize query answering over Solid data 
+* As a Solid provider I want to easily find and use data shapes so that I can store data in a way that it is interoperable
 
 ## App Provider
-* As an App Provider I want to use an API to request access to a specific data set in a Solid users' Pod so that ...
-* As an App Provider who is a frontend developer I want to add end-to-end tests to ensure the interoperability and quality of our applications so that .. 
-* As a App Provider who is a frontend developers I want to add end-to-end tests to ensure the interoperability and quality of our applications so that ... 
+* As an App provider I want to use an API to request access to a specific data set in a Solid users' Pod so that ...
+* As an App provider who is a frontend developer I want to add end-to-end tests to ensure the interoperability and quality of our applications so that .. 
+* As a App provider who is a frontend developers I want to add end-to-end tests to ensure the interoperability and quality of our applications so that ... 
+* As a App provider who is an operator of wifi for restaurants, hotels, etc I would like to allow clients to use their WebID to log in so that we don't need to manage passwords or have a captive portal. 
+* As a App provider I want to easily find and use data shapes so that I can store data in a way that it is interoperable
+
+# Unknown
+* As a Solid user who is a developer I want to store and retrieve RDF resources preserving serialization-specific details (e.g. Turtle comments or prefixes) so that...
+* As a Solid provider who is sells IoT devices I want my IoT devices to identify themselves so that ... 
+* As a operator of Internet services for a large non-profit, I want to maintain a stable Solid server for our community so that we can interact with them safely.
+* As a developer I want to set up WebRTC using a Pod
