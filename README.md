@@ -30,3 +30,42 @@ terms of limits on who can register and what default Access Control
 Lists they will be given.
 
 They are all welcome in this repository.
+
+## Solid Identity Users 
+* As a Solid user I want to be able to identify myself online so that others can trust me
+* As a Solid user I want to be able to identify myself without association to the identifier so that I am not overdependent on an entity that I cannot control  
+
+## Solid Pod Users 
+* As a Solid user I want to choose where to store my data so that I can judge if I trust the storage provider to respect my interests 
+* As a Solid user I want to be able to revoke access that an app has to my data so that I can change my mind or revise my decision when I have access to new information 
+* As a Solid user I want to choose which app to use with my data so that I can use services online freely
+* As a Solid user I want to know which apps are available for me to use 
+* As a Solid user I want to know an app is using my data
+* As a Solid user I want to be able to share my data with other Solid users
+* As a Solid user I want to be able to revoke sharing my data with other Solid users 
+* As a Solid user I want to be able to restore my Pod when it gets messed up 
+* As a Solid user I want to be able to delete my data 
+* As a Solid user I want to update my data 
+* As a Solid user I want to know which Pods are available for me to use
+* As a Solid user I want to be automatically notified of fraudulent access to my data 
+* As a Solid user I want to access data that is shared with me 
+* As a Solid user I want to know that nobody else has accessed my data 
+* As a Solid user I want autocorrect for my data for when a shoddy app doesn’t store my data properly  
+* As a Solid user I want to be notified when an app is shoddy and who made the shoddy app 
+* As a Solid user with motor problems I want to be able to navigate by data by keyboard
+* As a Solid user I want to read and navigate with voice control
+* As a colour blind Solid user I want to use Solid normally e.g. have a monochrome interface with a highlight colour if essential
+* As a Solid user I want to be able to record my wishes around what would happen to my data after my death  
+*	As a Solid user I want my data to be safe 
+*	As a Solid user with visual impairments I want to be able to increase the font size
+* As a Solid user who is not computer savvy I want my data wishes to be respected 
+* As a Solid user I want suggestions for things I might like or want to know about 
+*	As a Solid user who is a child I want to be protected from my parent or guardians’ decisions about my data until I am of the age of consent 
+*	As a Solid user who is a child I want to be able to gain access and control of my data from my parents or guardians when I turn the age of consent 
+*	As a Solid user who is a child I want to be able to delete photos of me that my parents have published 
+*	As a Solid user who is not compus mentus I want my interests to be protected
+*	As a parent of a Solid user who is a child I want to protect my child from data threats 
+
+## Solid App Users 
+* As a Solid user I want to chat with other Solid users
+* As a Solid user I want to have fun
