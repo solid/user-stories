@@ -107,6 +107,15 @@ As a Solid user on my mobile phone , I would like to overlay points of personal 
 * As a Solid user I want to be able to easily review and manage who has access to my data so that ... 
 * As a Solid user I want to use my WebID to register/authenticate everywhere on the Web, in and out of my pod 
 * As a Solid user who is a website operator I want to manage read access to groups so that ...
+* As a Solid user, I want to be able to send a copy of my data to a specific recipient so that they can see it without having access to future data
+* As a Solid user, I want to be able to group people/organisations with potential access to my data together, so I can easily provide the same level of access to people that deserve it
+* As a Solid user, I want to be able to give/restrict access based on usage patterns (e.g. give access to all photos with this property, even if I upload them later), so I can set up fine-grained access control once and be set for the future
+* As a person, I’d like to see all data generated about me in one dashboard even if they’re not on my Pod, so I have one place to get an overview of everything relevant to me
+* As a Solid user, I’d like to be able to publish my name and contact details, etc. so I have one single place to point people to who want to contact me
+* As a Solid user, I’d like to public my professional credentials on my Pod, so I can use it as a CV
+* As a Solid user, I’d like a sync app to automatically upload my contacts and pictures to my Pod, so I don’t have to enter them manually
+* As a Solid user, I’d like to get a notification when any of my contacts have a Pod, so I can quickly get rid of the “empty desert” feeling when I get started
+
 
 ## Solid App Users 
 * As a Solid user I want to chat with other Solid users so that I can communicate when not being physically in the same place
