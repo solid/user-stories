@@ -32,6 +32,13 @@ Lists they will be given.
 They are all welcome in this repository.
 
 # Solid User 
+* As a Solid user I want to know when I am a Solid user and how so that I am able to be in control and actively consent 
+* As a Solid user I want to know when software services I user stop being Solid compliants so that I can be in control through leaving software services when they change from what I originally was informed that they were. 
+* As a Solid user I want to know who is responsible for which software service so that I can hold parites resonsible when the services go wrong. 
+* As a Solid user I want to know under which jurisdiction sofware services fall so that I can be in control and actively consent 
+* As a Solid user I want to know which sofware services are provided to me under jurisdictions where I can vote directly or which have have binding relevant agreements with a jurisdiction where I can vote so that I can opt for services that I can hold accountable more easily. 
+* As a Solid user I want to be able to use Solid independently of any single legal entity that I do not have influence over so that I can be in control 
+* As a Solid user I want to know what my options are and how they change over time so that I can be in control  
 
 ## Solid Identity Users 
 * As a Solid user I want to be able to identify myself online so that others can trust me in online interactions 
@@ -130,3 +137,4 @@ As an Identity provider I want to...so that...
 * As a Solid provider who is sells IoT devices I want my IoT devices to identify themselves so that ... 
 * As a operator of Internet services for a large non-profit, I want to maintain a stable Solid server for our community so that we can interact with them safely.
 * As a developer I want to set up WebRTC using a Pod
+
