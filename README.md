@@ -33,7 +33,7 @@ They are all welcome in this repository.
 
 # Solid User 
 * As a Solid user I want to know when I am a Solid user and how so that I am able to be in control and actively consent 
-* As a Solid user I want to know when software services I user stop being Solid compliants so that I can be in control through leaving software services when they change from what I originally was informed that they were. 
+* As a Solid user I want to know when software services stop being Solid compliant so that I can be in control of leaving software services when they change from their original intentions. 
 * As a Solid user I want to know who is responsible for which software service so that I can hold parites resonsible when the services go wrong. 
 * As a Solid user I want to know under which jurisdiction sofware services fall so that I can be in control and actively consent 
 * As a Solid user I want to know which sofware services are provided to me under jurisdictions where I can vote directly or which have have binding relevant agreements with a jurisdiction where I can vote so that I can opt for services that I can hold accountable more easily. 
@@ -137,7 +137,6 @@ As an Identity provider I want to...so that...
 ## App Provider
 * As an App provider I want to use an API to request access to a specific data set in a Solid users' Pod so that ...
 * As an App provider who is a frontend developer I want to add end-to-end tests to ensure the interoperability and quality of our applications so that .. 
-* As a App provider who is a frontend developers I want to add end-to-end tests to ensure the interoperability and quality of our applications so that ... 
 * As a App provider who is an operator of wifi for restaurants, hotels, etc I would like to allow clients to use their WebID to log in so that we don't need to manage passwords or have a captive portal. 
 * As a App provider I want to easily find and use data shapes so that I can store data in a way that it is interoperable
 
