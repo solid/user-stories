@@ -115,6 +115,7 @@ As a Solid user on my mobile phone , I would like to overlay points of personal 
 * As a Solid user, I’d like to public my professional credentials on my Pod, so I can use it as a CV
 * As a Solid user, I’d like a sync app to automatically upload my contacts and pictures to my Pod, so I don’t have to enter them manually
 * As a Solid user, I’d like to get a notification when any of my contacts have a Pod, so I can quickly get rid of the “empty desert” feeling when I get started
+* As a Solid user, I want to publish huge data set, so it is easy to be accessed and can be explored using SPARQL.
 
 
 ## Solid App Users 
