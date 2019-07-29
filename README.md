@@ -31,14 +31,13 @@ Lists they will be given.
 
 They are all welcome in this repository.
 
-# Solid User 
-* As a Solid user I want to know when I am a Solid user and how so that I am able to be in control and actively consent 
-* As a Solid user I want to know when software services stop being Solid compliant so that I can be in control of leaving software services when they change from their original intentions. 
-* As a Solid user I want to know who is responsible for which software service so that I can hold parites resonsible when the services go wrong. 
-* As a Solid user I want to know under which jurisdiction sofware services fall so that I can be in control and actively consent 
-* As a Solid user I want to know which sofware services are provided to me under jurisdictions where I can vote directly or which have have binding relevant agreements with a jurisdiction where I can vote so that I can opt for services that I can hold accountable more easily. 
-* As a Solid user I want to be able to use Solid independently of any single legal entity that I do not have influence over so that I can be in control 
-* As a Solid user I want to know what my options are and how they change over time so that I can be in control  
+# Solid User Signup 
+
+* As a Solid user I want an explanation of what Solid is so that I understand why I need to signup for a webid and Pod 
+* As a Solid user I want to be able to sign up for an online identification with webid so that I can identify myself online 
+* As a Solid user I want to view the criteria to consider when choosing a Pod provider (e.g. physical location of the storage, legal location of the provider, type of legal entity, if storage is at home or at a provider)  so that I can conveniently find a Pod provider that matches my preferences
+* As a Solid user I want to be presented with the Pod providers that match my criteria so that I can decide where to store my data
+* As a Solid user I want to select the Pod provider and this be the default location of my data storage so that I have a minimum standard of where my data is
 
 ## Solid Identity Users 
 * As a Solid user I want to be able to identify myself online so that others can trust me in online interactions 
@@ -115,7 +114,13 @@ As a Solid user on my mobile phone , I would like to overlay points of personal 
 * As a Solid user, I’d like to public my professional credentials on my Pod, so I can use it as a CV
 * As a Solid user, I’d like a sync app to automatically upload my contacts and pictures to my Pod, so I don’t have to enter them manually
 * As a Solid user, I’d like to get a notification when any of my contacts have a Pod, so I can quickly get rid of the “empty desert” feeling when I get started
-
+* As a Solid user I want to know when I am a Solid user and how so that I am able to be in control and actively consent 
+* As a Solid user I want to know when software services stop being Solid compliant so that I can be in control of leaving software services when they change from their original intentions. 
+* As a Solid user I want to know who is responsible for which software service so that I can hold parites resonsible when the services go wrong. 
+* As a Solid user I want to know under which jurisdiction sofware services fall so that I can be in control and actively consent 
+* As a Solid user I want to know which sofware services are provided to me under jurisdictions where I can vote directly or which have have binding relevant agreements with a jurisdiction where I can vote so that I can opt for services that I can hold accountable more easily. 
+* As a Solid user I want to be able to use Solid independently of any single legal entity that I do not have influence over so that I can be in control 
+* As a Solid user I want to know what my options are and how they change over time so that I can be in control  
 
 ## Solid App Users 
 * As a Solid user I want to chat with other Solid users so that I can communicate when not being physically in the same place
