@@ -114,6 +114,7 @@ As a Solid user on my mobile phone , I would like to overlay points of personal 
 * As a Solid user, I’d like to public my professional credentials on my Pod, so I can use it as a CV
 * As a Solid user, I’d like a sync app to automatically upload my contacts and pictures to my Pod, so I don’t have to enter them manually
 * As a Solid user, I’d like to get a notification when any of my contacts have a Pod, so I can quickly get rid of the “empty desert” feeling when I get started
+* As a Solid user, I want to publish huge data set, so it is easy to be accessed and can be explored using SPARQL.
 * As a Solid user I want to know when I am a Solid user and how so that I am able to be in control and actively consent 
 * As a Solid user I want to know when software services stop being Solid compliant so that I can be in control of leaving software services when they change from their original intentions. 
 * As a Solid user I want to know who is responsible for which software service so that I can hold parites resonsible when the services go wrong. 
