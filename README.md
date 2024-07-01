@@ -26,7 +26,7 @@ development efforts.
 
 Obviously, Solid presents a wide open space of opportunity, and so, some 
 things are relevant to different parts of the system. Most will be uses of 
-Solid, as it is defined by [the specs](https://github.com/solid/solid-spec),
+Solid, as it is defined by [the specs](https://github.com/solid/specification),
 for example, the story
 
 > As a pretty distracted person, I want to record my tasks in a TODO
